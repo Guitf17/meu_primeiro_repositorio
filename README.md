@@ -13,4 +13,4 @@ Este é um jogo simples de Jokenpô (Pedra, Papel e Tesoura) implementado em Pyt
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Guitf17/JOKENPO.git
+   git clone https://github.com/Guitf17/meu_primeiro_repositorio/blob/main/JOKENPO.py
