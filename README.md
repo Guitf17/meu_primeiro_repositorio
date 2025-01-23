@@ -52,7 +52,9 @@ Quer jogar novamente? (S/N):  S
 ### Bibliotecas utilizadas:
 
 **random**: Para a escolha aleatória do computador.
+
 **time**: Para criar efeitos de pausa.
+
 **colorama**: Para exibir texto colorido no terminal.
 
 # Lógica do jogo:
