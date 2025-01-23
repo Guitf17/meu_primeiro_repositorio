@@ -1,16 +1,22 @@
-# Jogo de Jokenpô
+# Jokenpô (Pedra, Papel e Tesoura)
 
-Este é um jogo simples de Jokenpô (Pedra, Papel e Tesoura) implementado em Python, onde o usuário joga contra o computador. O programa apresenta uma interface colorida utilizando a biblioteca `colorama` para tornar a experiência mais divertida.
+Este projeto é uma implementação simples do jogo **Jokenpô** (Pedra, Papel e Tesoura) em Python. Ele permite que o jogador desafie o computador em uma partida amigável. A interface colorida foi desenvolvida utilizando a biblioteca `colorama` para tornar a experiência mais interativa e divertida.
 
-## Descrição
+## Funcionalidades
 
-- O jogo permite que o jogador escolha entre as opções: Pedra, Papel ou Tesoura.
-- O computador escolhe aleatoriamente uma das opções.
-- O resultado do jogo (vitória, derrota ou empate) é exibido após cada rodada.
-- O jogador pode continuar jogando ou encerrar a partida.
+- Escolha entre as opções: **Pedra**, **Papel** ou **Tesoura**.
+- O computador faz sua escolha aleatória.
+- O resultado (vitória, derrota ou empate) é apresentado após cada rodada.
+- Possibilidade de jogar novamente ou encerrar o jogo.
 
-## Instalação
+## Pré-requisitos
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Guitf17/meu_primeiro_repositorio/blob/main/JOKENPO.py
+- **Python 3.x** instalado em sua máquina.
+- Instale a biblioteca `colorama`, se ainda não estiver disponível. Para isso, utilize:
+  ```bash
+  pip install colorama
+  git clone https://github.com/Guitf17/meu_primeiro_repositorio/blob/main/JOKENPO.py
+## Como executar o jogo
+# 1 Clone o repositório:
+bash
+git clone https://github.com/Guitf17/meu_primeiro_repositorio/blob/main/JOKENPO.py
