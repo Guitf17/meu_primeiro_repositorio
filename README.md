@@ -54,7 +54,8 @@ Quer jogar novamente? (S/N):  S
 **random**: Para a escolha aleatória do computador.
 **time**: Para criar efeitos de pausa.
 **colorama**: Para exibir texto colorido no terminal.
-### Lógica do jogo:
+
+# Lógica do jogo:
 
 **Uso de um dicionário para mapear as escolhas.
 Estrutura condicional para determinar o vencedor.
@@ -63,4 +64,4 @@ Licença
 Este projeto é livre para uso e modificação. Fique à vontade para contribuir e adaptá-lo às suas necessidades!**
 
 # Contribua
-## Sinta-se à vontade para contribuir com melhorias, seja otimizando o código ou adicionando novas funcionalidades. Basta fazer um fork do repositório e abrir um pull request com suas sugestões.
+Sinta-se à vontade para contribuir com melhorias, seja otimizando o código ou adicionando novas funcionalidades. Basta fazer um fork do repositório e abrir um pull request com suas sugestões.
