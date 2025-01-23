@@ -32,16 +32,27 @@ pyyhon JOKENPO.py
 # Exemplo de saída:
 
 Vamos jogar JOKENPÔ!
+
 SUAS OPÇÕES SÃO:
+
 [ 1 ] PEDRA
+
 [ 2 ] PAPEL
+
 [ 3 ] TESOURA
+
 QUAL SUA ESCOLHA ?: 2
+
 JO KEN PÔ!
+
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+
 JOGADOR jogou PAPEL
+
 COMPUTADOR jogou PAPEL
+
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+
 EMPATE!
 
 Quer jogar novamente? (S/N):  S
